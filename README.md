@@ -632,11 +632,11 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] Implement (I did with tail pointer & without):
         - [x] size() - returns the number of data elements in the list
         - [x] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove the front item and return its value
+        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x] push_front(value) - adds an item to the front of the list
+        - [x] pop_front() - remove the front item and return its value
         - [x] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
+        - [x] pop_back() - removes end item and returns its value
         - [ ] front() - get the value of the front item
         - [ ] back() - get the value of the end item
         - [ ] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
@@ -644,7 +644,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
         - [ ] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
