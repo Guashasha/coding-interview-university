@@ -637,9 +637,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [x] pop_front() - remove the front item and return its value
         - [x] push_back(value) - adds an item at the end
         - [x] pop_back() - removes end item and returns its value
-        - [ ] front() - get the value of the front item
-        - [ ] back() - get the value of the end item
-        - [ ] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
+        - [x] front() - get the value of the front item
+        - [x] back() - get the value of the end item
+        - [x] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
         - [ ] erase(index) - removes node at given index
         - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
         - [ ] reverse() - reverses the list
@@ -719,8 +719,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [x] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [x] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](https://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
